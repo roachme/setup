@@ -1,0 +1,6 @@
+[submodule "dotfiles"]
+	path = dotfiles
+	url = git@github.com:roachme/.dotfiles.git
+[submodule "toolkit/tman"]
+	path = toolkit/tman
+	url = git@github.com:roachme/tman.git
